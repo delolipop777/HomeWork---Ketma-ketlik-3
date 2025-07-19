@@ -1,0 +1,14 @@
+C:\dev\MohirDev\HomeWork\3\3.4 - Expenses\bin\Debug\net8.0\3.4 - Expenses.exe
+C:\dev\MohirDev\HomeWork\3\3.4 - Expenses\bin\Debug\net8.0\3.4 - Expenses.deps.json
+C:\dev\MohirDev\HomeWork\3\3.4 - Expenses\bin\Debug\net8.0\3.4 - Expenses.runtimeconfig.json
+C:\dev\MohirDev\HomeWork\3\3.4 - Expenses\bin\Debug\net8.0\3.4 - Expenses.dll
+C:\dev\MohirDev\HomeWork\3\3.4 - Expenses\bin\Debug\net8.0\3.4 - Expenses.pdb
+C:\dev\MohirDev\HomeWork\3\3.4 - Expenses\obj\Debug\net8.0\3.4 - Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MohirDev\HomeWork\3\3.4 - Expenses\obj\Debug\net8.0\3.4 - Expenses.AssemblyInfoInputs.cache
+C:\dev\MohirDev\HomeWork\3\3.4 - Expenses\obj\Debug\net8.0\3.4 - Expenses.AssemblyInfo.cs
+C:\dev\MohirDev\HomeWork\3\3.4 - Expenses\obj\Debug\net8.0\3.4 - Expenses.csproj.CoreCompileInputs.cache
+C:\dev\MohirDev\HomeWork\3\3.4 - Expenses\obj\Debug\net8.0\3.4 - Expenses.dll
+C:\dev\MohirDev\HomeWork\3\3.4 - Expenses\obj\Debug\net8.0\refint\3.4 - Expenses.dll
+C:\dev\MohirDev\HomeWork\3\3.4 - Expenses\obj\Debug\net8.0\3.4 - Expenses.pdb
+C:\dev\MohirDev\HomeWork\3\3.4 - Expenses\obj\Debug\net8.0\3.4 - Expenses.genruntimeconfig.cache
+C:\dev\MohirDev\HomeWork\3\3.4 - Expenses\obj\Debug\net8.0\ref\3.4 - Expenses.dll

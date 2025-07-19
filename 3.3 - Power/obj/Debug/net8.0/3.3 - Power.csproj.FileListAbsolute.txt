@@ -1,0 +1,14 @@
+C:\dev\MohirDev\HomeWork\3\3.3 - Power\bin\Debug\net8.0\3.3 - Power.exe
+C:\dev\MohirDev\HomeWork\3\3.3 - Power\bin\Debug\net8.0\3.3 - Power.deps.json
+C:\dev\MohirDev\HomeWork\3\3.3 - Power\bin\Debug\net8.0\3.3 - Power.runtimeconfig.json
+C:\dev\MohirDev\HomeWork\3\3.3 - Power\bin\Debug\net8.0\3.3 - Power.dll
+C:\dev\MohirDev\HomeWork\3\3.3 - Power\bin\Debug\net8.0\3.3 - Power.pdb
+C:\dev\MohirDev\HomeWork\3\3.3 - Power\obj\Debug\net8.0\3.3 - Power.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MohirDev\HomeWork\3\3.3 - Power\obj\Debug\net8.0\3.3 - Power.AssemblyInfoInputs.cache
+C:\dev\MohirDev\HomeWork\3\3.3 - Power\obj\Debug\net8.0\3.3 - Power.AssemblyInfo.cs
+C:\dev\MohirDev\HomeWork\3\3.3 - Power\obj\Debug\net8.0\3.3 - Power.csproj.CoreCompileInputs.cache
+C:\dev\MohirDev\HomeWork\3\3.3 - Power\obj\Debug\net8.0\3.3 - Power.dll
+C:\dev\MohirDev\HomeWork\3\3.3 - Power\obj\Debug\net8.0\refint\3.3 - Power.dll
+C:\dev\MohirDev\HomeWork\3\3.3 - Power\obj\Debug\net8.0\3.3 - Power.pdb
+C:\dev\MohirDev\HomeWork\3\3.3 - Power\obj\Debug\net8.0\3.3 - Power.genruntimeconfig.cache
+C:\dev\MohirDev\HomeWork\3\3.3 - Power\obj\Debug\net8.0\ref\3.3 - Power.dll

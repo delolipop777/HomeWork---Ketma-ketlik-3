@@ -1,0 +1,14 @@
+C:\dev\MohirDev\HomeWork\3\3.5 - Armstron Numbers\bin\Debug\net8.0\3.5 - Armstron Numbers.exe
+C:\dev\MohirDev\HomeWork\3\3.5 - Armstron Numbers\bin\Debug\net8.0\3.5 - Armstron Numbers.deps.json
+C:\dev\MohirDev\HomeWork\3\3.5 - Armstron Numbers\bin\Debug\net8.0\3.5 - Armstron Numbers.runtimeconfig.json
+C:\dev\MohirDev\HomeWork\3\3.5 - Armstron Numbers\bin\Debug\net8.0\3.5 - Armstron Numbers.dll
+C:\dev\MohirDev\HomeWork\3\3.5 - Armstron Numbers\bin\Debug\net8.0\3.5 - Armstron Numbers.pdb
+C:\dev\MohirDev\HomeWork\3\3.5 - Armstron Numbers\obj\Debug\net8.0\3.5 - Armstron Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MohirDev\HomeWork\3\3.5 - Armstron Numbers\obj\Debug\net8.0\3.5 - Armstron Numbers.AssemblyInfoInputs.cache
+C:\dev\MohirDev\HomeWork\3\3.5 - Armstron Numbers\obj\Debug\net8.0\3.5 - Armstron Numbers.AssemblyInfo.cs
+C:\dev\MohirDev\HomeWork\3\3.5 - Armstron Numbers\obj\Debug\net8.0\3.5 - Armstron Numbers.csproj.CoreCompileInputs.cache
+C:\dev\MohirDev\HomeWork\3\3.5 - Armstron Numbers\obj\Debug\net8.0\3.5 - Armstron Numbers.dll
+C:\dev\MohirDev\HomeWork\3\3.5 - Armstron Numbers\obj\Debug\net8.0\refint\3.5 - Armstron Numbers.dll
+C:\dev\MohirDev\HomeWork\3\3.5 - Armstron Numbers\obj\Debug\net8.0\3.5 - Armstron Numbers.pdb
+C:\dev\MohirDev\HomeWork\3\3.5 - Armstron Numbers\obj\Debug\net8.0\3.5 - Armstron Numbers.genruntimeconfig.cache
+C:\dev\MohirDev\HomeWork\3\3.5 - Armstron Numbers\obj\Debug\net8.0\ref\3.5 - Armstron Numbers.dll

@@ -1,0 +1,14 @@
+C:\dev\MohirDev\HomeWork\3\3.6 - Quality Products\bin\Debug\net8.0\3.6 - Quality Products.exe
+C:\dev\MohirDev\HomeWork\3\3.6 - Quality Products\bin\Debug\net8.0\3.6 - Quality Products.deps.json
+C:\dev\MohirDev\HomeWork\3\3.6 - Quality Products\bin\Debug\net8.0\3.6 - Quality Products.runtimeconfig.json
+C:\dev\MohirDev\HomeWork\3\3.6 - Quality Products\bin\Debug\net8.0\3.6 - Quality Products.dll
+C:\dev\MohirDev\HomeWork\3\3.6 - Quality Products\bin\Debug\net8.0\3.6 - Quality Products.pdb
+C:\dev\MohirDev\HomeWork\3\3.6 - Quality Products\obj\Debug\net8.0\3.6 - Quality Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MohirDev\HomeWork\3\3.6 - Quality Products\obj\Debug\net8.0\3.6 - Quality Products.AssemblyInfoInputs.cache
+C:\dev\MohirDev\HomeWork\3\3.6 - Quality Products\obj\Debug\net8.0\3.6 - Quality Products.AssemblyInfo.cs
+C:\dev\MohirDev\HomeWork\3\3.6 - Quality Products\obj\Debug\net8.0\3.6 - Quality Products.csproj.CoreCompileInputs.cache
+C:\dev\MohirDev\HomeWork\3\3.6 - Quality Products\obj\Debug\net8.0\3.6 - Quality Products.dll
+C:\dev\MohirDev\HomeWork\3\3.6 - Quality Products\obj\Debug\net8.0\refint\3.6 - Quality Products.dll
+C:\dev\MohirDev\HomeWork\3\3.6 - Quality Products\obj\Debug\net8.0\3.6 - Quality Products.pdb
+C:\dev\MohirDev\HomeWork\3\3.6 - Quality Products\obj\Debug\net8.0\3.6 - Quality Products.genruntimeconfig.cache
+C:\dev\MohirDev\HomeWork\3\3.6 - Quality Products\obj\Debug\net8.0\ref\3.6 - Quality Products.dll

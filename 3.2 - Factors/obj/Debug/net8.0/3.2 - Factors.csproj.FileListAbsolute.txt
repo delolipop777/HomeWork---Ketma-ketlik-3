@@ -1,0 +1,14 @@
+C:\dev\MohirDev\HomeWork\3\3.2 - Factors\bin\Debug\net8.0\3.2 - Factors.exe
+C:\dev\MohirDev\HomeWork\3\3.2 - Factors\bin\Debug\net8.0\3.2 - Factors.deps.json
+C:\dev\MohirDev\HomeWork\3\3.2 - Factors\bin\Debug\net8.0\3.2 - Factors.runtimeconfig.json
+C:\dev\MohirDev\HomeWork\3\3.2 - Factors\bin\Debug\net8.0\3.2 - Factors.dll
+C:\dev\MohirDev\HomeWork\3\3.2 - Factors\bin\Debug\net8.0\3.2 - Factors.pdb
+C:\dev\MohirDev\HomeWork\3\3.2 - Factors\obj\Debug\net8.0\3.2 - Factors.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MohirDev\HomeWork\3\3.2 - Factors\obj\Debug\net8.0\3.2 - Factors.AssemblyInfoInputs.cache
+C:\dev\MohirDev\HomeWork\3\3.2 - Factors\obj\Debug\net8.0\3.2 - Factors.AssemblyInfo.cs
+C:\dev\MohirDev\HomeWork\3\3.2 - Factors\obj\Debug\net8.0\3.2 - Factors.csproj.CoreCompileInputs.cache
+C:\dev\MohirDev\HomeWork\3\3.2 - Factors\obj\Debug\net8.0\3.2 - Factors.dll
+C:\dev\MohirDev\HomeWork\3\3.2 - Factors\obj\Debug\net8.0\refint\3.2 - Factors.dll
+C:\dev\MohirDev\HomeWork\3\3.2 - Factors\obj\Debug\net8.0\3.2 - Factors.pdb
+C:\dev\MohirDev\HomeWork\3\3.2 - Factors\obj\Debug\net8.0\3.2 - Factors.genruntimeconfig.cache
+C:\dev\MohirDev\HomeWork\3\3.2 - Factors\obj\Debug\net8.0\ref\3.2 - Factors.dll
